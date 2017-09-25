@@ -1,1 +1,31 @@
 # modul-6
+GUI java 
+<b> Modul 6 </b>
+
+Nama : Sandra Dwi P.<br>
+No   : 29<br>
+kelas : XI RPL 5<br>
+
+1.array 1 <br>
+![alt text](https://github.com/perwitas/modul-6/blob/master/latihan1.PNG)
+<br>
+
+2.array 2<br>
+![alt text](https://github.com/perwitas/modul-6/blob//master/latihan2.PNG)
+<br>
+
+3.array<br>
+![alt text](https://github.com/perwitas/modul-6/blob/master/latihan3.PNG)<br>
+<br>
+
+4.pencarian sederhana <br>
+![alt text](https://github.com/perwitas/modul-6/blob/master/latihan4.PNG)
+<br>
+5. test array <br>
+![alt text](https://github.com/perwitas/modul-6/blob/master/kuis1.PNG)<br>
+
+6. pratikum 1<br>
+![alt text](https://github.com/perwitas/modul-6/blob/master/kuis2.PNG)<br>
+
+7. pratikum 2 <br>
+![alt text](https://github.com/perwitas/modul-6/blob/master/kuis2.PNG)<br>

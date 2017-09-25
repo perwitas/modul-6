@@ -7,25 +7,25 @@ No   : 29<br>
 kelas : XI RPL 5<br>
 
 1.array 1 <br>
-![alt text](https://github.com/perwitas/modul-6/blob/master/latihan1.PNG)
+![alt text](https://github.com/perwitas/modul-6/blob/master/array 1.PNG)
 <br>
 
 2.array 2<br>
-![alt text](https://github.com/perwitas/modul-6/blob//master/latihan2.PNG)
+![alt text](https://github.com/perwitas/modul-6/blob//master/array 2.PNG)
 <br>
 
 3.array<br>
-![alt text](https://github.com/perwitas/modul-6/blob/master/latihan3.PNG)<br>
+![alt text](https://github.com/perwitas/modul-6/blob/master/array.PNG)<br>
 <br>
 
 4.pencarian sederhana <br>
-![alt text](https://github.com/perwitas/modul-6/blob/master/latihan4.PNG)
+![alt text](https://github.com/perwitas/modul-6/blob/master/pencarian sederhana.PNG)
 <br>
 5. test array <br>
-![alt text](https://github.com/perwitas/modul-6/blob/master/kuis1.PNG)<br>
+![alt text](https://github.com/perwitas/modul-6/blob/master/test array.PNG)<br>
 
 6. pratikum 1<br>
-![alt text](https://github.com/perwitas/modul-6/blob/master/kuis2.PNG)<br>
+![alt text](https://github.com/perwitas/modul-6/blob/master/pratikum 1.PNG)<br>
 
 7. pratikum 2 <br>
-![alt text](https://github.com/perwitas/modul-6/blob/master/kuis2.PNG)<br>
+![alt text](https://github.com/perwitas/modul-6/blob/master/pratikum 2.PNG)<br>

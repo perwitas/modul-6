@@ -10,7 +10,7 @@ kelas : XI RPL 5<br>
 ![alt text](https://github.com/perwitas/modul-6/blob/master/array1.PNG)<br>
 <br>
 
-2.array 2<br>
+2.array2<br>
 ![alt text](https://github.com/perwitas/modul-6/blob//master/array2.PNG)<br>
 <br>
 

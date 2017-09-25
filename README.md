@@ -21,11 +21,15 @@ kelas : XI RPL 5<br>
 4.pencarian sederhana <br>
 ![alt text](https://github.com/perwitas/modul-6/blob/master/pencarian sederhana.PNG)<br>
 <br>
+
 5. test array <br>
 ![alt text](https://github.com/perwitas/modul-6/blob/master/test array.PNG)<br>
+<br>
 
 6. pratikum 1<br>
 ![alt text](https://github.com/perwitas/modul-6/blob/master/pratikum 1.PNG)<br>
+<br>
 
 7. pratikum 2 <br>
 ![alt text](https://github.com/perwitas/modul-6/blob/master/pratikum 2.PNG)<br>
+<br>
